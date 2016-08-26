@@ -6,7 +6,7 @@ var twitter = {
 };
 
 // 1. Dot notation:
-
+twitter.stockprice ===18;
 // 2. Bracket notation:
 
 // 3. Practice on your own:
